@@ -1,6 +1,9 @@
 # Leetcode-199-Binary-Tree-Right-Side-View
 https://leetcode.com/problems/binary-tree-right-side-view/
 
+Runtime: 8 ms, faster than 98.31% of Swift online submissions for Binary Tree Right Side View.
+Memory Usage: 21 MB, less than 28.81% of Swift online submissions for Binary Tree Right Side View.
+
 ```
     func rightSideView(_ root: TreeNode?) -> [Int] {
         var currentLevel = [root]
