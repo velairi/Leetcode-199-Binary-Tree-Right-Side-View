@@ -54,7 +54,6 @@ Approach:
 ```
 
 Time complexity: O(N) since one has to visit each node.
-
 Space complexity: O(D) to keep the queues, where D is a tree diameter. Let's use the last level to estimate the queue size. This level could contain up to N/2 tree nodes in the case of complete binary tree.
 
 Runtime: 8 ms, faster than 98.31% of Swift online submissions for Binary Tree Right Side View.
