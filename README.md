@@ -19,6 +19,7 @@ Explanation:
 ```
 
 Approach: 
+
 0. Initialize currentLevel array with the first node.
 1. Add nodes per level into currentLevel array, then add it's children to the nextLevel array.
 2. Add last node in currentLevel array to the output array
